@@ -43,13 +43,13 @@ Assets are referenced by path only; Glyph does not copy, move, or alter files.
 ## Project Structure
 
 glyph/
-├── main.cpp
-├── registry.cpp
-├── search.cpp
-├── storage.cpp
-├── stats.cpp
-├── text_processor.cpp
-└── utility.h
+- main.cpp
+- registry.cpp
+- search.cpp
+- storage.cpp
+- stats.cpp
+- text_processor.cpp
+- utility.h
 
 
 ## Usage
@@ -75,7 +75,7 @@ At any input prompt, the user may enter q to cancel the current operation or exi
 ## License
 
 MIT License
-Feel free to use, modify, and extend.
+Feel free to use, modify and extend.
 
 
 ## Author
