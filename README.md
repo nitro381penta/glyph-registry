@@ -2,7 +2,7 @@
 
 Glyph is a lightweight command-line utility written in modern C++ for the structured registration, organization, and analysis of digital assets.
 
-The tool provides a simple, engine-agnostic registry layer that allows users to catalog assets such as models, textures, audio files, scripts, shaders, or documents **without modifying or relocating the original files**.
+The tool provides a simple, engine-agnostic registry layer that allows users to catalog assets such as models, textures, audio files, scripts, shaders or documents **without modifying or relocating the original files**.
 
 Glyph is designed for small to medium-scale projects, research workflows, prototyping environments, and educational contexts where transparency, simplicity, and control are preferred over heavy asset management systems.
 
