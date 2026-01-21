@@ -1,0 +1,30 @@
+# Build artifacts
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Executables
+glyph
+glyph-registry
+a.out
+
+# Build directories
+build/
+cmake-build-*/
+Debug/
+Release/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data files
+*.db
+*.log
