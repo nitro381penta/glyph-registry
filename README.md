@@ -74,7 +74,7 @@ At any input prompt, the user may enter q to cancel the current operation or exi
 
 ## License
 
-MIT License
+MIT License:
 Feel free to use, modify and extend.
 
 
